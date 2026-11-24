@@ -33,11 +33,13 @@ Used Python for data cleaning, MySQL for SQL analysis, and Power BI for dashboar
 
 ## 🔄 Project Workflow
 
-flowchart LR
-    A[Retail Dataset] --> B[Python Cleaning]
-    B --> C[MySQL Analysis]
-    C --> D[Power BI Dashboard]
-    D --> E[Business Insights]
+```mermaid
+graph TD
+    A["Retail Dataset"] --> B["Python - Data Cleaning"]
+    B --> C["MySQL - Data Analysis"]
+    C --> D["Power BI - Dashboard"]
+    D --> E["Business Insights"]
+```
 
 ## 📊 Key Performance Indicators
 
