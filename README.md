@@ -31,15 +31,21 @@ Used Python for data cleaning, MySQL for SQL analysis, and Power BI for dashboar
 | <img src="https://cdn.simpleicons.org/mysql/4479A1" width="22"/> **MySQL** | SQL queries and analysis |
 | <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="22"/> **Power BI** | Dashboard and visualization |
 
+
 ## 🔄 Project Workflow
 
-```mermaid
-graph TD
-    A["Retail Dataset"] --> B["Python - Data Cleaning"]
-    B --> C["MySQL - Data Analysis"]
-    C --> D["Power BI - Dashboard"]
-    D --> E["Business Insights"]
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Retail_Dataset-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/Python_Cleaning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/MySQL_Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/Power_BI_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/Business_Insights-8A2BE2?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+</p>
+
 
 ## 📊 Key Performance Indicators
 
